@@ -1,0 +1,180 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/alcohol-use-withdrawal---primary.py
+inputModule3:
+  class: File
+  path: python/chronic-alcohol-use---primary.py
+inputModule4:
+  class: File
+  path: python/harmful-alcohol-use---primary.py
+inputModule5:
+  class: File
+  path: python/alcohol-use-syndr---primary.py
+inputModule6:
+  class: File
+  path: python/alcohol-use-intoxication---primary.py
+inputModule7:
+  class: File
+  path: python/alcohol-use-poison---primary.py
+inputModule8:
+  class: File
+  path: python/alcohol-use-isopropyl---primary.py
+inputModule9:
+  class: File
+  path: python/acute-alcohol-use---primary.py
+inputModule10:
+  class: File
+  path: python/alcohol-use-detox---primary.py
+inputModule11:
+  class: File
+  path: python/alcohol-use-hepatitis---primary.py
+inputModule12:
+  class: File
+  path: python/alcohol-use---primary.py
+inputModule13:
+  class: File
+  path: python/alcohol-use-rubbing---primary.py
+inputModule14:
+  class: File
+  path: python/alcohol-use-consump---primary.py
+inputModule15:
+  class: File
+  path: python/alcohol-use-failure---primary.py
+inputModule16:
+  class: File
+  path: python/alcohol-use-counsel---primary.py
+inputModule17:
+  class: File
+  path: python/heavy-alcohol-use---primary.py
+inputModule18:
+  class: File
+  path: python/alcohol-use-unspecified---primary.py
+inputModule19:
+  class: File
+  path: python/alcohol-use-dependence---primary.py
+inputModule20:
+  class: File
+  path: python/other-alcohol-use---primary.py
+inputModule21:
+  class: File
+  path: python/alcohol-use-acamprosate---primary.py
+inputModule22:
+  class: File
+  path: python/alcohol-use-denatured---primary.py
+inputModule23:
+  class: File
+  path: python/alcohol-use-ethyl---primary.py
+inputModule24:
+  class: File
+  path: python/nondependent-alcohol-use---primary.py
+inputModule25:
+  class: File
+  path: python/alcohol-use-alcohl---primary.py
+inputModule26:
+  class: File
+  path: python/alcohol-use-monitoring---primary.py
+inputModule27:
+  class: File
+  path: python/myopathy-alcohol-use---primary.py
+inputModule28:
+  class: File
+  path: python/polyneuropathy-alcohol-use---primary.py
+inputModule29:
+  class: File
+  path: python/alcohol-use-remission---primary.py
+inputModule30:
+  class: File
+  path: python/brief-alcohol-use---primary.py
+inputModule31:
+  class: File
+  path: python/encephalopathy-alcohol-use---primary.py
+inputModule32:
+  class: File
+  path: python/alcohol---primary.py
+inputModule33:
+  class: File
+  path: python/intervent-alcohol-use---primary.py
+inputModule34:
+  class: File
+  path: python/alcohol-use-disulfiram---primary.py
+inputModule35:
+  class: File
+  path: python/alcohol-use-level---primary.py
+inputModule36:
+  class: File
+  path: python/alcohol-use-psychosis---primary.py
+inputModule37:
+  class: File
+  path: python/alcohol-use-333mg---primary.py
+inputModule38:
+  class: File
+  path: python/alcohol-use-cirrhosis---primary.py
+inputModule39:
+  class: File
+  path: python/alcohol-use-complet---primary.py
+inputModule40:
+  class: File
+  path: python/alcohol-use-treat---primary.py
+inputModule41:
+  class: File
+  path: python/alcohol-use-rehabilitation---primary.py
+inputModule42:
+  class: File
+  path: python/alcohol-use-fibrosis---primary.py
+inputModule43:
+  class: File
+  path: python/alcohol-use-alcoholism---primary.py
+inputModule44:
+  class: File
+  path: python/severe-alcohol-use---primary.py
+inputModule45:
+  class: File
+  path: python/alcohol-use-ethanol---primary.py
+inputModule46:
+  class: File
+  path: python/alcohol-use-accidpoi---primary.py
+inputModule47:
+  class: File
+  path: python/alcohol-use-200mg---primary.py
+inputModule48:
+  class: File
+  path: python/alcohol-use-delirium---primary.py
+inputModule49:
+  class: File
+  path: python/alcohol-use-damage---primary.py
+inputModule50:
+  class: File
+  path: python/amnestic-alcohol-use---primary.py
+inputModule51:
+  class: File
+  path: python/alcohol-use-korsakov---primary.py
+inputModule52:
+  class: File
+  path: python/alcohol-use-gastritis---primary.py
+inputModule53:
+  class: File
+  path: python/alcohol-use-pancreatitis---primary.py
+inputModule54:
+  class: File
+  path: python/alcohol-use-drinker---primary.py
+inputModule55:
+  class: File
+  path: python/fatty-alcohol-use---primary.py
+inputModule56:
+  class: File
+  path: python/deterrent-alcohol-use---primary.py
+inputModule57:
+  class: File
+  path: python/behavioural-alcohol-use---primary.py
+inputModule58:
+  class: File
+  path: python/alcohol-use-100ml---primary.py
+inputModule59:
+  class: File
+  path: python/alcohol-use-liver---primary.py
+inputModule60:
+  class: File
+  path: python/output-cases.py
